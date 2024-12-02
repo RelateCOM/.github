@@ -36,3 +36,4 @@ In addition to our proprietary system, we also contribute to the open-source com
 If you have any questions or suggestions, please don't hesitate to contact us:
 
 * Email: [1rycont@gmail.com](mailto:1rycont@gmail.com)
+* Telegram channel [relate](https://t.me/relatecom)
